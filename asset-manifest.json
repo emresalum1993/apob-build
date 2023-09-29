@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.4be424ee.css",
-    "main.js": "./static/js/main.ec2efd03.js",
-    "index.html": "./index.html",
-    "main.4be424ee.css.map": "./static/css/main.4be424ee.css.map",
-    "main.ec2efd03.js.map": "./static/js/main.ec2efd03.js.map"
+    "main.css": "./apob-build/static/css/main.4be424ee.css",
+    "main.js": "./apob-build/static/js/main.ec2efd03.js",
+    "index.html": "./apob-build/index.html",
+    "main.4be424ee.css.map": "./apob-build/static/css/main.4be424ee.css.map",
+    "main.ec2efd03.js.map": "./apob-build/static/js/main.ec2efd03.js.map"
   },
   "entrypoints": [
     "static/css/main.4be424ee.css",
